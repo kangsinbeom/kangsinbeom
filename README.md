@@ -4,7 +4,7 @@
 </p>
 
 <br/>
-🐶 hi there!
+🐶 Hi there!
 <br/>
 🌿 I'm studying to be a front-end developer
 <br/>
