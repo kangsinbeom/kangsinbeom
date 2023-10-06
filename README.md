@@ -18,16 +18,16 @@
 <p>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=000000"/> 
  <img src="https://img.shields.io/badge/Next.js v.13-000000?style=flat&logo=Next.js&logoColor=white"/>
- 
+ <br/>
  <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=000000"/> 
  <img src="https://img.shields.io/badge/recoil-61DAFB?style=flat&logo=recoil&logoColor=000000"/> 
  <img src="https://img.shields.io/badge/react--query-FF4154?style=flat&logo=react-query&logoColor=000000"/> 
  <img src="https://img.shields.io/badge/SWR-000000?style=flat&logo=vercel&logoColor=white"/> 
- 
+ <br/>
  <img src="https://img.shields.io/badge/tailwindcss-1252B6?style=flat&logo=tailwindcss&logoColor=white"/>
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/emotion-A9225C?style=flat&logoColor=white"/>
- 
+ <br/>
  <img src="https://img.shields.io/badge/typescript-1572B6?style=flat&logo=typescript&logoColor=000000"/>
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
 </p>
