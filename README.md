@@ -1,6 +1,6 @@
 <p>
-  <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Bloglovin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kangsinbeom2448@gmail.com-004788?style=flat-square&logo=Gmail&logoColor=white"/>
+  <a href="https://gnae16.tistory.com/" target="blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Bloglovin&logoColor=white"/></a>
+  <a href="mailto:kangsinbeom2448@gmail.com" target="blank"><img src="https://img.shields.io/badge/kangsinbeom2448@gmail.com-004788?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <br/>
