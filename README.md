@@ -1,3 +1,6 @@
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SINBEOM&fontAlign=70&rotate=13&fontAlignY=25&desc=Consistently%20Growing%20Developer.&descAlign=70&descAlignY=44)
+
+
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20Blog-orange?style=flat-square&logo=Tistory&logoColor=white&link=https://gnae16.tistory.com/)](https://gnae16.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kangsinbeom2448@gmail.com)](mailto:kangsinbeom2448@gmail.com)
 
